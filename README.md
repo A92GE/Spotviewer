@@ -2,7 +2,7 @@
 DXLab Spotcollector to Thetis bridge
 ## Screenshot
 
-![Spotviewer](Screenshots/Screenshot_v_1_1.png)
+![Spotviewer](Screenshot Thetis_Spotviewer.png)
 
 
 # SpotViewer for DXLab SpotCollector + Thetis
